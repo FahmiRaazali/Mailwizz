@@ -1,0 +1,1 @@
+Template for basic nginx server configuration for Mailwizz.
